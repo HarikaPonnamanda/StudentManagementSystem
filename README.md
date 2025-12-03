@@ -25,7 +25,7 @@ A full-stack web application built using C#, ASP.NET Core MVC, and SQL Server to
 ## 📌 Project Screenshot
 Here is the main UI of the Student Management System:
 
-![SMS Screenshot](https://github.com/HarikaPonnamanda/Student-Management-System/blob/main/SMS.png.png)
+![SMS Screenshot](https://github.com/HarikaPonnamanda/StudentManagementSystem/blob/master/SMS.png)
 
 
 ---
